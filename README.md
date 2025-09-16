@@ -17,3 +17,4 @@ Stay tethered, fight off spirits, and survive as long as possible.
 
 
 ## Future ideas!
+- **Adding more potential hosts with their own abilities.**
