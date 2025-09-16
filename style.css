@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: #0c0c0c;
+  color: #e0e0e0;
+  font-family: "Courier New", monospace;
+  text-align: center;
+}
+
+h1 {
+  color: #66ffcc;
+  margin: 10px 0;
+}
+
+p {
+  color: #999;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+#hud {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #333;
+  background: #111;
+}
